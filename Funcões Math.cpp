@@ -138,7 +138,7 @@ void potencia (){
 	scanf("%f",&a);
 	printf("digite um numero natural:");
 	scanf("%d",&b);
-	printf("%e\n",pow(a,b));// %e ou %E para retornar em notação cientifica
+	printf("%e\n",pow(a,b));// %e ou %E para retornar em notaÃ§Ã£o cientifica
 }
 
 void raiz(){
